@@ -6,7 +6,6 @@ import org.junit.Test;
 
 @Slf4j
 public class LinkedListTest {
-
     private LinkedList list;
     @Before
     public void LinkedListConstructor(){
@@ -15,12 +14,13 @@ public class LinkedListTest {
 
     @Before
     @Test
-    public void 뒤에_데이터_삽입_테스트(){
+    public void 뒤에_데이터_삽입_테스트() {
         for(int i=0;i<10;i++){
             list.addLast(new ListNode(i+"번"));
         }
         log.info(list.printList());
     }
+
 
     @Test
     public void 리스트_삭제_테스트(){

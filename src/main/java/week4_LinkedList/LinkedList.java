@@ -103,19 +103,18 @@ public class LinkedList {
             }
         }
     }
-
     public String printList() {
         ListNode tmp = this.head;
-        String result = "";
+        StringBuilder sentence = new StringBuilder();
         while (tmp != null) {
             if (tmp.getNext()==null) {
-                result += tmp.getData();
+                sentence.append(tmp.getData());
                 break;
             } else {
-                result += tmp.getData() + ",";
+                sentence.append(tmp.getData()+", ");
                 tmp = tmp.getNext();
             }
         }
-        return result.equals("")? "리스트가 비어있습니다." : result;
+        return sentence.toString().equals("")? "리스트가 비어있습니다." : sentence.toString();
     }
 }
