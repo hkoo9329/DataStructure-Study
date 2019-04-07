@@ -1,24 +1,24 @@
-package week4_LinkedList;
+package week4_LinkedList.singly_linked_list;
 
 
 import lombok.Data;
 
 @Data
-public class ListNode {
+public class Node {
     private Object data;
-    private ListNode next;
+    private Node next;
 
-    public ListNode() {
+    public Node() {
         this.data = null;
         this.next = null;
     }
 
-    public ListNode(Object data) {
+    public Node(Object data) {
         this.data = data;
         this.next = null;
     }
 
-    public ListNode(Object data, ListNode node) {
+    public Node(Object data, Node node) {
         this.data = data;
         this.next = node;
     }

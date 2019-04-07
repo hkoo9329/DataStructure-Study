@@ -1,8 +1,9 @@
-package week4_LinkedList;
+package week4_LinkedList.singly_linked_list;
 
 import lombok.extern.slf4j.Slf4j;
 import org.junit.Before;
 import org.junit.Test;
+
 
 @Slf4j
 public class LinkedListTest {
@@ -16,7 +17,7 @@ public class LinkedListTest {
     @Test
     public void 뒤에_데이터_삽입_테스트() {
         for(int i=0;i<10;i++){
-            list.addLast(new ListNode(i+"번"));
+            list.addLast(new Node(i+"번"));
         }
         log.info(list.printList());
     }
@@ -30,7 +31,7 @@ public class LinkedListTest {
 
     @Test
     public void 앞에_데이터_삽입(){
-        list.addFirst(new ListNode("*"));
+        list.addFirst(new Node("*"));
         log.info(list.printList());
     }
     @Test
@@ -43,7 +44,4 @@ public class LinkedListTest {
         list.removeFirst();
         log.info(list.printList());
     }
-
-
-
 }

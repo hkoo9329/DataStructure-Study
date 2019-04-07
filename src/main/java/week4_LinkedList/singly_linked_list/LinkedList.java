@@ -1,12 +1,12 @@
-package week4_LinkedList;
+package week4_LinkedList.singly_linked_list;
 
 
 import lombok.extern.slf4j.Slf4j;
 
 @Slf4j
 public class LinkedList {
-    private ListNode head;
-    private ListNode last;
+    private Node head;
+    private Node last;
 
     public LinkedList() {
         head = null;
@@ -32,7 +32,7 @@ public class LinkedList {
     }
 
     public void removeLast() {
-        ListNode node = head;
+        Node node = head;
         if (head == null) {
             log.error("list의 크기가 0입니다.");
         } else {
@@ -47,7 +47,7 @@ public class LinkedList {
         }
     }
 
-    public void addLast(ListNode node) {
+    public void addLast(Node node) {
         if (head == null) {
             head = node;
             last = node;
@@ -57,12 +57,12 @@ public class LinkedList {
         }
     }
 
-    public void addFirst(ListNode node) {
+    public void addFirst(Node node) {
         if (head == null) {
             head = node;
             last = node;
         } else {
-            ListNode tmp = head;
+            Node tmp = head;
             node.setNext(tmp);
             head = node;
         }
@@ -71,7 +71,7 @@ public class LinkedList {
     public Boolean searchNode(Object data) {
         if (head == null)
             return false;
-        ListNode node = head;
+        Node node = head;
         while (node != null) {
             if (node.getData().equals(data)) {
                 return true;
@@ -82,7 +82,7 @@ public class LinkedList {
     }
 
     public void FindDeleteNode(Object data) {
-        ListNode pre, tmp;
+        Node pre, tmp;
         if (!searchNode(data)) {
             log.error("해당 data가 list에 존재하지 않습니다.");
         } else {
@@ -104,7 +104,7 @@ public class LinkedList {
         }
     }
     public String printList() {
-        ListNode tmp = this.head;
+        Node tmp = this.head;
         StringBuilder sentence = new StringBuilder();
         while (tmp != null) {
             if (tmp.getNext()==null) {
