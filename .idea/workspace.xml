@@ -2,26 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b75e66a0-bc46-44de-90ba-dbc8e5be0e61" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/week5_LinkdeList_SimpleExam/exam1/ExamPoly.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/week5_LinkdeList_SimpleExam/exam1/List.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/week5_LinkdeList_SimpleExam/exam1/Node.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/week4_LinkedList/circular_linked_list/Circular_LinkedListTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/week4_LinkedList/singly_linked_list/LinkedListTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/week6_Stack/bracketChecker/ArrayStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/week6_Stack/bracketChecker/OptExp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/week6_Stack/palindrome/LinkedStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/week6_Stack/palindrome/Palindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/week6_Stack/palindrome/Stack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/week6_Stack/palindrome/StackNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/week7_Queue/circularQueue/CircularQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/week7_Queue/circularQueue/Queue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/week7_Queue/circularQueue/QueueMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/week7_Queue/prefixToPostfix/Postfix.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/week4_LinkedList/LinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/week4_LinkedList/singly_linked_list/LinkedList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/week4_LinkedList/ListNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/week4_LinkedList/singly_linked_list/Node.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/week4_LinkedList/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/week4_LinkedList/singly_linked_list/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/week4_LinkedList/LinkedListTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/week2_time_complexity/TimeComplexity.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/week2_time_complexity/TimeComplexity.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/week3_array/Polynomial/OperatePoly.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/week3_array/Polynomial/OperatePoly.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/week3_array/Polynomial/PolyMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/week3_array/Polynomial/PolyMain.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/week3_array/Polynomial/Polynomial.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/week3_array/Polynomial/Polynomial.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/week3_array/RandomLengthSequential/RandomLengthSequential.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/week3_array/RandomLengthSequential/RandomLengthSequential.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/week4_LinkedList/LinkedList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/week4_LinkedList/ListNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/week3_array/Polynomial/PolyMainTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/week3_array/Polynomial/PolyMainTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/week4_LinkedList/LinkedListTest.class" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -41,102 +32,101 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/week5_LinkdeList_SimpleExam/exam1/ExamPoly.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="95">
-              <caret line="5" column="6" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/week4_LinkedList/singly_linked_list/LinkedList.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="114">
-              <caret line="6" column="16" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="16" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/week4_LinkedList/singly_linked_list/LinkedListTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="114">
-              <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/week4_LinkedList/circular_linked_list/Circular_LinkedListTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="513">
-              <caret line="34" column="22" selection-start-line="34" selection-start-column="22" selection-end-line="34" selection-end-column="22" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/week4_LinkedList/circular_linked_list/ListNode.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/week7_Queue/prefixToPostfix/PrefixToPostfix.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="95">
-              <caret line="5" column="5" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
+            <state relative-caret-position="323">
+              <caret line="17" column="39" lean-forward="true" selection-start-line="17" selection-start-column="39" selection-end-line="17" selection-end-column="39" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/week4_LinkedList/circular_linked_list/Circular_LinkedList.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/week7_Queue/prefixToPostfix/Postfix.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="475">
-              <caret line="25" column="20" selection-start-line="25" selection-start-column="20" selection-end-line="25" selection-end-column="20" />
+            <state relative-caret-position="1273">
+              <caret line="67" column="22" selection-start-line="67" selection-start-column="22" selection-end-line="67" selection-end-column="22" />
               <folding>
-                <element signature="e#3437#3438#0" expanded="true" />
-                <element signature="e#3469#3470#0" expanded="true" />
+                <element signature="imports" expanded="true" />
+                <element signature="e#215#216#0" expanded="true" />
+                <element signature="e#296#297#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/week5_LinkdeList_SimpleExam/exam1/Node.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/week7_Queue/circularQueue/QueueMain.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="114">
-              <caret line="6" column="6" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
+            <state relative-caret-position="133">
+              <caret line="7" column="35" selection-start-line="7" selection-start-column="35" selection-end-line="7" selection-end-column="35" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/week5_LinkdeList_SimpleExam/exam2/ListNode.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/week7_Queue/circularQueue/Queue.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="152">
-              <caret line="8" column="25" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
+            <state relative-caret-position="76">
+              <caret line="4" column="21" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="21" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/week5_LinkdeList_SimpleExam/exam2/CLinkdeList.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/week7_Queue/circularQueue/CircularQueue.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="817">
-              <caret line="45" column="20" selection-start-line="45" selection-start-column="20" selection-end-line="45" selection-end-column="20" />
+            <state relative-caret-position="1292">
+              <caret line="72" column="39" lean-forward="true" selection-start-line="72" selection-start-column="39" selection-end-line="72" selection-end-column="39" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/week5_LinkdeList_SimpleExam/exam2/ExamCirular.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/week7_Queue/circularQueue/Stack.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="152">
-              <caret line="8" column="32" selection-start-line="8" selection-start-column="32" selection-end-line="8" selection-end-column="32" />
+            <state relative-caret-position="38">
+              <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/week7_Queue/circularQueue/StackNode.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="38">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/week7_Queue/circularQueue/LinkedStack.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="349">
+              <caret line="54" column="51" selection-start-line="54" selection-start-column="51" selection-end-line="54" selection-end-column="51" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/week7_Queue/prefixToPostfix/ArrayStack.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="427">
+              <caret line="85" column="51" lean-forward="true" selection-start-line="85" selection-start-column="51" selection-end-line="85" selection-end-column="51" />
+              <folding>
+                <element signature="e#218#219#0" expanded="true" />
+                <element signature="e#267#268#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/week7_Queue/prefixToPostfix/Stack.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="190">
+              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
             </state>
           </provider>
         </entry>
@@ -146,8 +136,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="JUnit4 Test Class" />
+        <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -157,11 +148,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/wee2_time_complexity/src/Time_complexity.java" />
-        <option value="$PROJECT_DIR$/src/main/java/week2_time_complexity/TimeComplexity.java" />
-        <option value="$PROJECT_DIR$/src/main/java/week3_array/RandomLengthSequential.java" />
-        <option value="$PROJECT_DIR$/src/main/java/week3_array/RandomLengthSequential/week3_array/Polynomial/Polynomial.java" />
-        <option value="$PROJECT_DIR$/src/main/java/week3_array/Polynomial/Polynomial.java" />
         <option value="$PROJECT_DIR$/src/main/java/week3_array/Polynomial/OperatePoly.java" />
         <option value="$PROJECT_DIR$/src/main/java/week3_array/RandomLengthSequential/RandomLengthSequential.java" />
         <option value="$PROJECT_DIR$/src/main/java/week3_array/Polynomial/PolyMain.java" />
@@ -192,13 +178,34 @@
         <option value="$PROJECT_DIR$/src/main/java/week4_LinkedList/circular_linked_list/Circular_LinkedList.java" />
         <option value="$PROJECT_DIR$/src/test/java/week4_LinkedList/circular_linked_list/Circular_LinkedListTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/week4_LinkedList/circular_linked_list/ListNode.java" />
+        <option value="$PROJECT_DIR$/src/main/java/week6_Stack/palindrome.java" />
+        <option value="$PROJECT_DIR$/src/main/java/week6_Stack/palindrome/palindrome.java" />
+        <option value="$PROJECT_DIR$/src/main/java/week6_Stack/palindrome/Stack.java" />
+        <option value="$PROJECT_DIR$/src/main/java/week6_Stack/palindrome/StackNode.java" />
+        <option value="$PROJECT_DIR$/src/main/java/week6_Stack/palindrome/LinkedStack.java" />
+        <option value="$PROJECT_DIR$/src/main/java/week6_Stack/palindrome/Palindrome.java" />
+        <option value="$PROJECT_DIR$/src/main/java/week6_Stack/bracketChecker.java" />
+        <option value="$PROJECT_DIR$/src/main/java/week6_Stack/BracketChecker.java" />
+        <option value="$PROJECT_DIR$/src/main/java/week6_Stack/bracketChecker/Stack.java" />
+        <option value="$PROJECT_DIR$/src/main/java/week6_Stack/bracketChecker/ArrayStack.java" />
+        <option value="$PROJECT_DIR$/src/main/java/week6_Stack/bracketChecker/OptExp.java" />
+        <option value="$PROJECT_DIR$/src/main/java/week6_Stack/bracketChecker/BracketChecker.java" />
+        <option value="$PROJECT_DIR$/src/main/java/week7_Queue/Postfix.java" />
+        <option value="$PROJECT_DIR$/src/main/java/week7_Queue/circularQueue/Queue.java" />
+        <option value="$PROJECT_DIR$/src/main/java/week7_Queue/circularQueue/LinkedStack.java" />
+        <option value="$PROJECT_DIR$/src/main/java/week7_Queue/circularQueue/QueueMain.java" />
+        <option value="$PROJECT_DIR$/src/main/java/week7_Queue/prefixToPostfix/Stack.java" />
+        <option value="$PROJECT_DIR$/src/main/java/week7_Queue/prefixToPostfix/ArrayStack.java" />
+        <option value="$PROJECT_DIR$/src/main/java/week7_Queue/circularQueue/CircularQueue.java" />
+        <option value="$PROJECT_DIR$/src/main/java/week7_Queue/prefixToPostfix/Postfix.java" />
+        <option value="$PROJECT_DIR$/src/main/java/week7_Queue/prefixToPostfix/PrefixToPostfix.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="950" />
-    <option name="width" value="980" />
-    <option name="height" value="1040" />
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="-8" />
+    <option name="width" value="977" />
+    <option name="height" value="1038" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -237,7 +244,7 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="week4_LinkedList" type="462c0819:PsiDirectoryNode" />
+              <item name="week6_Stack" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="dataStructure" type="b2602c69:ProjectViewProjectNode" />
@@ -245,8 +252,8 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="week4_LinkedList" type="462c0819:PsiDirectoryNode" />
-              <item name="circular_linked_list" type="462c0819:PsiDirectoryNode" />
+              <item name="week6_Stack" type="462c0819:PsiDirectoryNode" />
+              <item name="bracketChecker" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="dataStructure" type="b2602c69:ProjectViewProjectNode" />
@@ -254,8 +261,8 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="week4_LinkedList" type="462c0819:PsiDirectoryNode" />
-              <item name="singly_linked_list" type="462c0819:PsiDirectoryNode" />
+              <item name="week6_Stack" type="462c0819:PsiDirectoryNode" />
+              <item name="palindrome" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="dataStructure" type="b2602c69:ProjectViewProjectNode" />
@@ -263,7 +270,7 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="week5_LinkdeList_SimpleExam" type="462c0819:PsiDirectoryNode" />
+              <item name="week7_Queue" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="dataStructure" type="b2602c69:ProjectViewProjectNode" />
@@ -271,8 +278,8 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="week5_LinkdeList_SimpleExam" type="462c0819:PsiDirectoryNode" />
-              <item name="exam1" type="462c0819:PsiDirectoryNode" />
+              <item name="week7_Queue" type="462c0819:PsiDirectoryNode" />
+              <item name="circularQueue" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="dataStructure" type="b2602c69:ProjectViewProjectNode" />
@@ -280,8 +287,8 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="week5_LinkdeList_SimpleExam" type="462c0819:PsiDirectoryNode" />
-              <item name="exam2" type="462c0819:PsiDirectoryNode" />
+              <item name="week7_Queue" type="462c0819:PsiDirectoryNode" />
+              <item name="prefixToPostfix" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="dataStructure" type="b2602c69:ProjectViewProjectNode" />
@@ -326,17 +333,17 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554179379261" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1555341475787" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../github/MultilayerPerceptron" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -357,9 +364,11 @@
       <recent name="D:\data_structure\src\main\java\week4_LinkedList\singly_linked_list" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="week7_Queue.prefixToPostfix" />
       <recent name="week5_LinkdeList_SimpleExam" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\data_structure\src\main\java\week7_Queue\circularQueue" />
       <recent name="D:\data_structure\src\main\java\week5_LinkdeList_SimpleExam\exam2" />
       <recent name="D:\data_structure\src\main\java\week4_LinkedList\circular_linked_list" />
     </key>
@@ -379,13 +388,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.Circular_LinkedListTest.입력_테스트_케이스">
-    <configuration name="ExamCirular" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="week5_LinkdeList_SimpleExam.exam2.ExamCirular" />
+  <component name="RunManager" selected="Application.PrefixToPostfix">
+    <configuration name="BracketChecker" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week6_Stack.bracketChecker.BracketChecker" />
       <module name="data_structure" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="week5_LinkdeList_SimpleExam.exam2.*" />
+          <option name="PATTERN" value="week6_Stack.bracketChecker.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -393,17 +402,41 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Circular_LinkedListTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Palindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week6_Stack.palindrome.Palindrome" />
       <module name="data_structure" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="week4_LinkedList.circular_linked_list.*" />
+          <option name="PATTERN" value="week6_Stack.palindrome.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="week4_LinkedList.circular_linked_list" />
-      <option name="MAIN_CLASS_NAME" value="week4_LinkedList.circular_linked_list.Circular_LinkedListTest" />
-      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PrefixToPostfix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week7_Queue.prefixToPostfix.PrefixToPostfix" />
+      <module name="data_structure" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="week7_Queue.prefixToPostfix.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="QueueMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week7_Queue.circularQueue.QueueMain" />
+      <module name="data_structure" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="week7_Queue.circularQueue.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -456,53 +489,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LinkedListTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="data_structure" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="week4_LinkedList.singly_linked_list.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="week4_LinkedList.singly_linked_list" />
-      <option name="MAIN_CLASS_NAME" value="week4_LinkedList.singly_linked_list.LinkedListTest" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="LinkedListTest.앞에_데이터_삭제" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="data_structure" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="week4_LinkedList.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="week4_LinkedList" />
-      <option name="MAIN_CLASS_NAME" value="week4_LinkedList.LinkedListTest" />
-      <option name="METHOD_NAME" value="앞에_데이터_삭제" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="LinkedListTest.앞에_데이터_삽입" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="data_structure" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="week4_LinkedList.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="week4_LinkedList" />
-      <option name="MAIN_CLASS_NAME" value="week4_LinkedList.LinkedListTest" />
-      <option name="METHOD_NAME" value="앞에_데이터_삽입" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="LinkedListTest.뒤에_데이터_삭제" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="data_structure" />
       <extension name="coverage">
@@ -537,10 +523,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PrefixToPostfix" />
+        <item itemvalue="Application.QueueMain" />
+        <item itemvalue="Application.BracketChecker" />
+        <item itemvalue="Application.Palindrome" />
         <item itemvalue="JUnit.Circular_LinkedListTest.입력_테스트_케이스" />
-        <item itemvalue="JUnit.Circular_LinkedListTest" />
-        <item itemvalue="JUnit.LinkedListTest" />
-        <item itemvalue="Application.ExamCirular" />
       </list>
     </recent_temporary>
   </component>
@@ -576,13 +563,17 @@
       <workItem from="1554163766526" duration="2582000" />
       <workItem from="1554178813151" duration="560000" />
       <workItem from="1554534695607" duration="5000" />
+      <workItem from="1554613066086" duration="201000" />
+      <workItem from="1554734033339" duration="4748000" />
+      <workItem from="1554769310280" duration="425000" />
+      <workItem from="1555316074999" duration="5823000" />
+      <workItem from="1555337458968" duration="3933000" />
+      <workItem from="1555378254569" duration="2365000" />
+      <workItem from="1555382220694" duration="205000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Circular_LinkedListTest_입력_테스트_케이스 - 2019.04.01 at 14h 01m 35s.xml">
-      <configuration name="Circular_LinkedListTest.입력_테스트_케이스" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="Circular_LinkedListTest_입력_테스트_케이스 - 2019.04.01 at 14h 08m 39s.xml">
       <configuration name="Circular_LinkedListTest.입력_테스트_케이스" configurationId="JUnit" />
     </history-entry>
@@ -610,14 +601,18 @@
     <history-entry file="Circular_LinkedListTest_입력_테스트_케이스 - 2019.04.02 at 13h 28m 15s.xml">
       <configuration name="Circular_LinkedListTest.입력_테스트_케이스" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="Circular_LinkedListTest_입력_테스트_케이스 - 2019.04.09 at 00h 16m 24s.xml">
+      <configuration name="Circular_LinkedListTest.입력_테스트_케이스" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="53793000" />
+    <option name="totallyTimeSpent" value="71493000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <frame x="-6" y="0" width="781" height="830" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16644295" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.38002774" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -625,18 +620,18 @@
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.24113475" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39432624" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32624114" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.24390244" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39311334" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" weight="0.3328551" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.3319149" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="12" visible="true" weight="0.3134752" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.3134752" />
       <window_info anchor="bottom" id="Duplicate detector" order="13" weight="0.32624114" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -650,6 +645,40 @@
       <window_info anchor="right" id="Database" order="9" />
       <window_info anchor="right" id="Coverage" order="10" side_tool="true" weight="0.15973154" />
     </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" weight="0.38002774" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32624114" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.24390244" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39432624" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.3319149" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.3134752" />
+      <window_info anchor="bottom" id="Duplicate detector" order="13" weight="0.32624114" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Key Promoter X" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Maven" order="6" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Database" order="9" />
+      <window_info anchor="right" id="Coverage" order="10" side_tool="true" weight="0.15973154" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -668,6 +697,12 @@
           <line>16</line>
           <properties />
           <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/week7_Queue/prefixToPostfix/Postfix.java</url>
+          <line>32</line>
+          <properties />
+          <option name="timeStamp" value="7" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
@@ -880,7 +915,7 @@
           <caret line="25" column="20" selection-start-line="25" selection-start-column="20" selection-end-line="25" selection-end-column="20" />
           <folding>
             <element signature="e#3437#3438#0" expanded="true" />
-            <element signature="e#3468#3469#0" expanded="true" />
+            <element signature="e#3469#3470#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -899,6 +934,39 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/week6_Stack/bracketChecker/Stack.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/week4_LinkedList/circular_linked_list/ListNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/week6_Stack/bracketChecker/BracketChecker.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="29" selection-start-line="6" selection-start-column="29" selection-end-line="6" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/week6_Stack/bracketChecker/OptExp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="741">
+          <caret line="39" column="25" selection-start-line="39" selection-start-column="25" selection-end-line="39" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/week6_Stack/palindrome/LinkedStack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1102">
+          <caret line="60" column="31" selection-start-line="60" selection-start-column="31" selection-end-line="60" selection-end-column="31" />
+          <folding>
+            <element signature="e#148#149#0" expanded="true" />
+            <element signature="e#182#183#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/week5_LinkdeList_SimpleExam/exam2/CLinkdeList.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="817">
@@ -913,10 +981,116 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/week4_LinkedList/circular_linked_list/ListNode.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/week6_Stack/palindrome/Palindrome.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" column="5" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
+        <state relative-caret-position="465">
+          <caret line="41" column="13" selection-start-line="41" selection-start-column="13" selection-end-line="41" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/week6_Stack/palindrome/Stack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="16" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/week6_Stack/palindrome/StackNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="19" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/week6_Stack/bracketChecker/ArrayStack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="441">
+          <caret line="33" selection-start-line="33" selection-end-line="34" />
+          <folding>
+            <element signature="e#221#222#0" expanded="true" />
+            <element signature="e#260#261#0" expanded="true" />
+            <element signature="e#757#758#0" expanded="true" />
+            <element signature="e#807#808#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/week7_Queue/circularQueue/CircularQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1292">
+          <caret line="72" column="39" lean-forward="true" selection-start-line="72" selection-start-column="39" selection-end-line="72" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/week7_Queue/circularQueue/LinkedStack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="349">
+          <caret line="54" column="51" selection-start-line="54" selection-start-column="51" selection-end-line="54" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/week7_Queue/circularQueue/QueueMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="35" selection-start-line="7" selection-start-column="35" selection-end-line="7" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/week7_Queue/circularQueue/Stack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/week7_Queue/circularQueue/StackNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/week7_Queue/circularQueue/Queue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="21" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/week7_Queue/prefixToPostfix/ArrayStack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="427">
+          <caret line="85" column="51" lean-forward="true" selection-start-line="85" selection-start-column="51" selection-end-line="85" selection-end-column="51" />
+          <folding>
+            <element signature="e#218#219#0" expanded="true" />
+            <element signature="e#267#268#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/week7_Queue/prefixToPostfix/Postfix.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1273">
+          <caret line="67" column="22" selection-start-line="67" selection-start-column="22" selection-end-line="67" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#215#216#0" expanded="true" />
+            <element signature="e#296#297#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/week7_Queue/prefixToPostfix/Stack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/week7_Queue/prefixToPostfix/PrefixToPostfix.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="17" column="39" lean-forward="true" selection-start-line="17" selection-start-column="39" selection-end-line="17" selection-end-column="39" />
         </state>
       </provider>
     </entry>
