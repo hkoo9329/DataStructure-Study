@@ -4,7 +4,7 @@ package week5_LinkdeList_SimpleExam.exam1;
 import lombok.extern.slf4j.Slf4j;
 
 @Slf4j
-public class List {
+class List {
     private Node head;
     private Node last;
 

@@ -1,6 +1,6 @@
 package week7_Queue.circularQueue;
 
-public class CircularQueue implements Queue {
+class CircularQueue implements Queue {
     private int front;
     private int rear;
     private int queueSize;
@@ -58,29 +58,30 @@ public class CircularQueue implements Queue {
         if (isEmpty()) {
             System.out.println("Queue is empty");
             return 0;
-        }else{
-            return itemArray[(front+1)%queueSize];
+        } else {
+            return itemArray[(front + 1) % queueSize];
         }
     }
-    public void reverseQueue(){
+
+    public void reverseQueue() {
         LinkedStack stack = new LinkedStack();
-        while (!isEmpty()){
+        while (!isEmpty()) {
             stack.push(deQueue());
         }
-        while (!stack.isEmpty()){
+        while (!stack.isEmpty()) {
             enQueue(stack.pop());
         }
         System.out.println("reversed");
 
     }
 
-    public void printQueue(){
-        if (isEmpty()){
+    public void printQueue() {
+        if (isEmpty()) {
             System.out.println("Queue is empty");
-        }else{
+        } else {
             System.out.print("Circular Queue>>");
-            for (int i=(front+1)%queueSize;i!=(rear+1)%queueSize;i=++i%queueSize){
-                System.out.print(itemArray[i]+" ");
+            for (int i = (front + 1) % queueSize; i != (rear + 1) % queueSize; i = ++i % queueSize) {
+                System.out.print(itemArray[i] + " ");
             }
             System.out.println();
         }

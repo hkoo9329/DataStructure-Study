@@ -2,8 +2,7 @@ package week6_Stack.palindrome;
 
 import java.util.Scanner;
 
-public class Palindrome {
-
+class Palindrome {
 
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
@@ -12,10 +11,9 @@ public class Palindrome {
             if (insertItem.equals("q"))
                 break;
             else {
-                if (palinCheck(insertItem)){
+                if (palinCheck(insertItem)) {
                     System.out.println("회문입니다.");
-                }
-                else {
+                } else {
                     System.out.println("회문이 아닙니다.");
                 }
             }
@@ -35,7 +33,7 @@ public class Palindrome {
                     i++;
                     oddCheck = false;
                 }
-                if(stack.pop()!=str.charAt(i)){
+                if (stack.pop() != str.charAt(i)) {
                     return false;
                 }
 

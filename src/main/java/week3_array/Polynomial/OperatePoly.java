@@ -2,7 +2,7 @@ package week3_array.Polynomial;
 
 import java.util.List;
 
-public class OperatePoly {
+class OperatePoly {
 
     public OperatePoly(){
 

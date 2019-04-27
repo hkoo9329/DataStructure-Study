@@ -23,22 +23,28 @@ class Node {
         this.expo = expo;
         this.link = link;
     }
-    public float getCoef(){
+
+    public float getCoef() {
         return this.coef;
     }
-    public void setCoef(float coef1){
+
+    public void setCoef(float coef1) {
         this.coef = coef1;
     }
-    public int getExpo(){
+
+    public int getExpo() {
         return this.expo;
     }
-    public void setExpo(int expo){
+
+    public void setExpo(int expo) {
         this.expo = expo;
     }
-    public Node getLink(){
+
+    public Node getLink() {
         return this.link;
     }
-    public void setLink(Node link){
+
+    public void setLink(Node link) {
         this.link = link;
     }
 }

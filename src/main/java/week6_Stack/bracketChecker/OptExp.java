@@ -1,6 +1,6 @@
 package week6_Stack.bracketChecker;
 
-public class OptExp {
+class OptExp {
     private String exp;
     private int expSize;
     private char testCh, openPair;

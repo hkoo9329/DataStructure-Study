@@ -3,7 +3,7 @@ package week7_Queue.prefixToPostfix;
 import java.util.Stack;
 import java.util.StringTokenizer;
 
-public class Postfix {
+class Postfix {
     private String equation;
     private ArrayStack stack;
 

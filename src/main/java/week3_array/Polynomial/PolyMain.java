@@ -5,7 +5,7 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.StringTokenizer;
 
-public class PolyMain {
+class PolyMain {
 
     public static void main(String[] args) {
         String[] testCase = "4x^3+3x^2+5x^1 3x^4+1x^3+2x^1+1x^0".split(" ");
@@ -14,7 +14,7 @@ public class PolyMain {
         OperatePoly operatePoly = new OperatePoly();
         int[] A = getArray(tokenizerA);
         int[] B = getArray(tokenizerB);
-        int[] C = operatePoly.addPoly(A,B);
+        int[] C = operatePoly.addPoly(A, B);
         System.out.println(operatePoly.polyToString(A));
         System.out.println(operatePoly.polyToString(B));
         System.out.println(operatePoly.polyToString(C));

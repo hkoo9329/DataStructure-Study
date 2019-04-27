@@ -1,4 +1,4 @@
-package week6_Stack.palindrome;
+package week6_Stack.bracketChecker;
 
 interface Stack {
     boolean isEmpty();

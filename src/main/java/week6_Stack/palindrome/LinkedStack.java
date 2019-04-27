@@ -1,6 +1,6 @@
 package week6_Stack.palindrome;
 
-public class LinkedStack implements Stack {
+class LinkedStack implements Stack {
     private StackNode top;
 
     @Override

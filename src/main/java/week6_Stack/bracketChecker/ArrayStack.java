@@ -1,28 +1,30 @@
 package week6_Stack.bracketChecker;
 
-import week6_Stack.palindrome.Stack;
 
-public class ArrayStack implements Stack {
+class ArrayStack implements Stack{
     private int top;
     private int stackSize;
     private char itemArray[];
 
-    public int getSize(){
+    public int getSize() {
         return itemArray.length;
     }
+
     public ArrayStack(int stackSize) {
         top = -1;
         this.stackSize = stackSize;
         itemArray = new char[this.stackSize];
     }
-    public void reSize(){
-        stackSize = stackSize *2;
+
+    public void reSize() {
+        stackSize = stackSize * 2;
         char[] newArray = new char[stackSize];
-        for (int i = 0; i<itemArray.length;i++){
+        for (int i = 0; i < itemArray.length; i++) {
             newArray[i] = itemArray[i];
         }
         itemArray = newArray;
     }
+
     @Override
     public boolean isEmpty() {
         return (top == -1);
@@ -64,22 +66,21 @@ public class ArrayStack implements Stack {
 
     @Override
     public char peek() {
-        if (isEmpty()){
+        if (isEmpty()) {
             System.out.println("Peeking fail! Array Stack is empty!!");
             return 0;
-        }
-        else{
+        } else {
             return itemArray[top];
         }
     }
 
-    public void printStack(){
-        if (isEmpty()){
+    public void printStack() {
+        if (isEmpty()) {
             System.out.println("Array Stack is empty!!");
-        }else{
+        } else {
             System.out.println("Array STack >> ");
-            for (int i=0;i<top;i++){
-                System.out.print(itemArray[i]+" ");
+            for (int i = 0; i < top; i++) {
+                System.out.print(itemArray[i] + " ");
             }
             System.out.println();
         }

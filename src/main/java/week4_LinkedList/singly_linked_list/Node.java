@@ -4,7 +4,7 @@ package week4_LinkedList.singly_linked_list;
 import lombok.Data;
 
 @Data
-public class Node {
+class Node {
     private Object data;
     private Node next;
 

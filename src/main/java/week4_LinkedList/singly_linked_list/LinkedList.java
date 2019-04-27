@@ -1,10 +1,9 @@
 package week4_LinkedList.singly_linked_list;
 
-
 import lombok.extern.slf4j.Slf4j;
 
 @Slf4j
-public class LinkedList {
+class LinkedList {
     private Node head;
     private Node last;
 
@@ -39,6 +38,7 @@ public class LinkedList {
             while (node.getNext() != null) {
                 if (node.getNext().equals(last)) {
                     node.setNext(null);
+                    last = node;
                 } else {
                     node = node.getNext();
                 }
