@@ -1,4 +1,5 @@
 import lombok.extern.slf4j.Slf4j;
+import org.junit.Assert;
 import org.junit.Test;
 import sun.reflect.generics.tree.Tree;
 
@@ -141,6 +142,18 @@ public class examTest {
         
     }
 
+    @Test
+    public void nullPointTest(){
+        Object[] a = new Object[10];
+        Assert.assertNull(a[0]);
+    }
+
+    @Test
+    public void 경로_확인_테스트(){
+
+        System.out.println(new java.io.File("").getAbsolutePath());
+
+    }
 
 
 
