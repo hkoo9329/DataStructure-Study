@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b75e66a0-bc46-44de-90ba-dbc8e5be0e61" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/binary_search_tree/BinarySearchTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/binary_search_tree/Node.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/binary_search_tree/BinarySearchTreeTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -120,7 +117,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/sorting/SelectionSort.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="38">
@@ -129,11 +126,14 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/binary_search_tree/Node.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="76">
-              <caret line="10" column="18" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="57">
+                <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -155,7 +155,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/week8_queue_v2/reverseQueue/StackNode.java" />
         <option value="$PROJECT_DIR$/src/main/java/week8_queue_v2/reverseQueue/LinkedStack.java" />
         <option value="$PROJECT_DIR$/src/main/java/week8_queue_v2/reverseQueue/MainTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/week8_queue_v2/meeting/Queue.java" />
@@ -206,13 +205,14 @@
         <option value="$PROJECT_DIR$/src/main/java/binary_search_tree/BinarySearchTree.java" />
         <option value="$PROJECT_DIR$/src/main/java/binary_search_tree/Node.java" />
         <option value="$PROJECT_DIR$/src/test/java/binary_search_tree/BinarySearchTreeTest.java" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-10" />
-    <option name="width" value="979" />
-    <option name="height" value="1040" />
+    <option name="x" value="-8" />
+    <option name="width" value="977" />
+    <option name="height" value="1038" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -504,7 +504,7 @@
       <workItem from="1560178159371" duration="83000" />
       <workItem from="1560213337589" duration="83000" />
       <workItem from="1560687723355" duration="647000" />
-      <workItem from="1560761216939" duration="2886000" />
+      <workItem from="1560761216939" duration="3194000" />
     </task>
     <servers />
   </component>
@@ -541,7 +541,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="155087000" />
+    <option name="totallyTimeSpent" value="155395000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -556,7 +556,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3248227" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.1319149" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.1319149" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39454806" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -564,7 +564,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" weight="0.33333334" />
+      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.33333334" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="12" weight="0.30780143" />
       <window_info anchor="bottom" id="Duplicate detector" order="13" weight="0.32624114" />
@@ -718,21 +718,6 @@
     </watches-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/circularQueue/CircularQueue.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
-          <folding>
-            <element signature="e#378#379#0" expanded="true" />
-            <element signature="e#414#415#0" expanded="true" />
-            <element signature="e#459#460#0" expanded="true" />
-            <element signature="e#511#512#0" expanded="true" />
-            <element signature="e#996#997#0" expanded="true" />
-            <element signature="e#1023#1024#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/circularQueue/Queue.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="38">
@@ -1111,6 +1096,16 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="38">
           <caret line="2" column="26" selection-start-line="2" selection-start-column="26" selection-end-line="2" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="57">
+            <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>

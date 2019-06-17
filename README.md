@@ -1,4 +1,4 @@
 ## 자료구조 공부
-1. 간단한 time_complexity 예제
-2. array
-3. LinkedList
+
+### repository 정리 예정
+[] 자료구조 별로 정리
