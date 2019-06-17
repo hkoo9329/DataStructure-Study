@@ -2,41 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b75e66a0-bc46-44de-90ba-dbc8e5be0e61" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Student" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/week10_Tree/array_tree/ArrayTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/week10_Tree/array_tree/Traversal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/week10_Tree/tree_reverse/LinkedTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/week10_Tree/tree_reverse/TreeNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/week10_Tree/tree_reverse/TreeReverse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/week11_binary_tree/binarySearchTree/BinarySearchTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/week11_binary_tree/binarySearchTree/TreeNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/week11_binary_tree/strudentSearchTree/BinarySearchTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/week11_binary_tree/strudentSearchTree/Stud.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/week11_binary_tree/strudentSearchTree/TestMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/week11_binary_tree/strudentSearchTree/TreeNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/week12_heap/adj_matrix/AdjExam.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/week12_heap/adj_matrix/AdjList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/week12_heap/adj_matrix/AdjMatrix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/week12_heap/adj_matrix/GraphNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/week12_heap/student_heap/Heap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/week12_heap/student_heap/HeapExam.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/week12_heap/student_heap/Stud.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/week13_heap_again/AdjExam.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/week13_heap_again/AdjList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/week13_heap_again/AdjMatrix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/week13_heap_again/GraphNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/week14_spanningTree/sorting/BubbleSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/week14_spanningTree/sorting/InsertSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/week14_spanningTree/sorting/QuickSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/week14_spanningTree/sorting/mainTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/week14_spanningTree/spanning_tree/AdjExam.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/week14_spanningTree/spanning_tree/AdjList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/week14_spanningTree/spanning_tree/GraphNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/week15_sorting/Sorting.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/week15_sorting/Stud.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/week15_sorting/TestMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/binary_search_tree/BinarySearchTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/binary_search_tree/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/binary_search_tree/BinarySearchTreeTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/examTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/examTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -60,87 +29,111 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/week14_spanningTree/sorting/BubbleSort.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/binary_search_tree/BinarySearchTree.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="418">
-              <caret line="22" column="9" selection-start-line="8" selection-start-column="8" selection-end-line="22" selection-end-column="9" />
+            <state relative-caret-position="95">
+              <caret line="11" column="27" lean-forward="true" selection-start-line="11" selection-start-column="27" selection-end-line="11" selection-end-column="27" />
+              <folding>
+                <element signature="e#615#616#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/week15_sorting/Sorting.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/binary_search_tree/BinarySearchTreeTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1140">
-              <caret line="60" column="17" selection-start-line="60" selection-start-column="17" selection-end-line="60" selection-end-column="17" />
+            <state relative-caret-position="245">
+              <caret line="22" column="26" selection-start-line="22" selection-start-column="26" selection-end-line="22" selection-end-column="26" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#187#188#0" expanded="true" />
+                <element signature="e#225#226#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/week15_sorting/TestMain.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/week13_heap_again/AdjExam.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-57">
-              <caret line="3" column="17" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
+            <state relative-caret-position="166">
+              <caret line="31" column="32" selection-start-line="31" selection-start-column="32" selection-end-line="31" selection-end-column="32" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/week11_binary_tree/strudentSearchTree/TestMain.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/week13_heap_again/AdjMatrix.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="532">
-              <caret line="28" column="9" selection-start-line="28" selection-start-column="9" selection-end-line="28" selection-end-column="9" />
+            <state relative-caret-position="171">
+              <caret line="11" column="17" lean-forward="true" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
+              <folding>
+                <element signature="e#222#223#0" expanded="true" />
+                <element signature="e#246#247#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/week13_heap_again/AdjList.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="38">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/week12_heap/adj_matrix/AdjExam.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="38">
+              <caret line="2" selection-start-line="2" selection-end-line="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/week12_heap/adj_matrix/AdjList.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-19">
+              <caret line="2" selection-start-line="2" selection-end-line="2" />
+              <folding>
+                <element signature="e#137#138#0" expanded="true" />
+                <element signature="e#179#180#0" expanded="true" />
+                <element signature="e#218#219#0" expanded="true" />
+                <element signature="e#242#243#0" expanded="true" />
+                <element signature="e#861#862#0" expanded="true" />
+                <element signature="e#895#896#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/week12_heap/adj_matrix/AdjMatrix.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="399">
+              <caret line="25" column="39" lean-forward="true" selection-start-line="25" selection-start-column="39" selection-end-line="25" selection-end-column="39" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/week15_sorting/Stud.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/sorting/SelectionSort.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="133">
-              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+            <state relative-caret-position="38">
+              <caret line="2" column="26" selection-start-line="2" selection-start-column="26" selection-end-line="2" selection-end-column="26" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/week14_spanningTree/sorting/QuickSort.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/binary_search_tree/Node.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-452">
-              <caret line="17" column="20" lean-forward="true" selection-start-line="17" selection-start-column="20" selection-end-line="17" selection-end-column="20" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/week14_spanningTree/sorting/InsertSort.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="427">
-              <caret line="24" column="9" selection-start-line="7" selection-start-column="8" selection-end-line="24" selection-end-column="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/week13_heap_again/GraphNode.java">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Student">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="171">
-              <caret line="9" column="18" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/week11_binary_tree/strudentSearchTree/Stud.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="95">
-              <caret line="5" column="16" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
+            <state relative-caret-position="76">
+              <caret line="10" column="18" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
             </state>
           </provider>
         </entry>
@@ -150,8 +143,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="JUnit4 Test Class" />
         <option value="Interface" />
+        <option value="JUnit4 Test Class" />
         <option value="Class" />
       </list>
     </option>
@@ -162,9 +155,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/week8_queue_v2/reverseQueue/Queue.java" />
-        <option value="$PROJECT_DIR$/src/main/java/week8_queue_v2/reverseQueue/ArrayCQueue.java" />
-        <option value="$PROJECT_DIR$/src/main/java/week8_queue_v2/reverseQueue/Stack.java" />
         <option value="$PROJECT_DIR$/src/main/java/week8_queue_v2/reverseQueue/StackNode.java" />
         <option value="$PROJECT_DIR$/src/main/java/week8_queue_v2/reverseQueue/LinkedStack.java" />
         <option value="$PROJECT_DIR$/src/main/java/week8_queue_v2/reverseQueue/MainTest.java" />
@@ -213,13 +203,16 @@
         <option value="$PROJECT_DIR$/src/main/java/week15_sorting/testMain.java" />
         <option value="$PROJECT_DIR$/src/main/java/week15_sorting/Sorting.java" />
         <option value="$PROJECT_DIR$/src/main/java/week15_sorting/TestMain.java" />
+        <option value="$PROJECT_DIR$/src/main/java/binary_search_tree/BinarySearchTree.java" />
+        <option value="$PROJECT_DIR$/src/main/java/binary_search_tree/Node.java" />
+        <option value="$PROJECT_DIR$/src/test/java/binary_search_tree/BinarySearchTreeTest.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="952" />
-    <option name="width" value="977" />
-    <option name="height" value="1038" />
+    <option name="x" value="-10" />
+    <option name="width" value="979" />
+    <option name="height" value="1040" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -227,8 +220,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -260,47 +253,28 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="week11_binary_tree" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="dataStructure" type="b2602c69:ProjectViewProjectNode" />
-              <item name="data_structure" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="week11_binary_tree" type="462c0819:PsiDirectoryNode" />
-              <item name="strudentSearchTree" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="dataStructure" type="b2602c69:ProjectViewProjectNode" />
-              <item name="data_structure" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="week14_spanningTree" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="dataStructure" type="b2602c69:ProjectViewProjectNode" />
-              <item name="data_structure" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="week14_spanningTree" type="462c0819:PsiDirectoryNode" />
               <item name="sorting" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="dataStructure" type="b2602c69:ProjectViewProjectNode" />
               <item name="data_structure" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="week15_sorting" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="dataStructure" type="b2602c69:ProjectViewProjectNode" />
               <item name="data_structure" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dataStructure" type="b2602c69:ProjectViewProjectNode" />
+              <item name="data_structure" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="binary_search_tree" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -327,11 +301,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="binary_search_tree" />
       <recent name="radixSorting" />
       <recent name="Singly_Linked_List" />
       <recent name="circularQueue" />
       <recent name="week4_LinkedList.singly_linked_list" />
-      <recent name="week4_LinkedList.circular_linked_list" />
     </key>
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
@@ -355,6 +329,7 @@
       <recent name="D:\data_structure\src\main\java\week4_LinkedList\circular_linked_list" />
     </key>
     <key name="CreateClassDialog.RecentsKey">
+      <recent name="binary_search_tree" />
       <recent name="week8_queue_v2.meeting" />
       <recent name="week4_LinkedList" />
     </key>
@@ -371,7 +346,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.TestMain">
+  <component name="RunManager" selected="JUnit.BinarySearchTreeTest.트리_print_테스트">
     <configuration name="AdjExam (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="week14_spanningTree.spanning_tree.AdjExam" />
       <module name="data_structure" />
@@ -391,19 +366,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="week12_heap.adj_matrix.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="HeapExam" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="week12_heap.student_heap.HeapExam" />
-      <module name="data_structure" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="week12_heap.student_heap.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -437,13 +399,29 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="BinarySearchTreeTest.트리_print_테스트" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="data_structure" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="binary_search_tree.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="binary_search_tree" />
+      <option name="MAIN_CLASS_NAME" value="binary_search_tree.BinarySearchTreeTest" />
+      <option name="METHOD_NAME" value="트리_print_테스트" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.BinarySearchTreeTest.트리_print_테스트" />
         <item itemvalue="Application.TestMain" />
         <item itemvalue="Application.mainTest" />
         <item itemvalue="Application.AdjExam (1)" />
         <item itemvalue="Application.AdjExam" />
-        <item itemvalue="Application.HeapExam" />
       </list>
     </recent_temporary>
   </component>
@@ -523,22 +501,14 @@
       <workItem from="1559613392368" duration="660000" />
       <workItem from="1560165385353" duration="2571000" />
       <workItem from="1560175652017" duration="2007000" />
+      <workItem from="1560178159371" duration="83000" />
+      <workItem from="1560213337589" duration="83000" />
+      <workItem from="1560687723355" duration="647000" />
+      <workItem from="1560761216939" duration="2886000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="examTest_스트링_최소값_최대값_찾기 - 2019.05.02 at 14h 13m 11s.xml">
-      <configuration name="examTest.스트링_최소값_최대값_찾기" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="examTest_스트링_최소값_최대값_찾기 - 2019.05.02 at 14h 17m 06s.xml">
-      <configuration name="examTest.스트링_최소값_최대값_찾기" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="examTest_스트링_최소값_최대값_찾기 - 2019.05.02 at 14h 17m 26s.xml">
-      <configuration name="examTest.스트링_최소값_최대값_찾기" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="examTest_스트링_최소값_최대값_찾기 - 2019.05.02 at 14h 21m 19s.xml">
-      <configuration name="examTest.스트링_최소값_최대값_찾기" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="examTest_스트링_최소값_최대값_찾기 - 2019.05.02 at 14h 24m 17s.xml">
       <configuration name="examTest.스트링_최소값_최대값_찾기" configurationId="JUnit" />
     </history-entry>
@@ -557,15 +527,27 @@
     <history-entry file="examTest_경로_확인_테스트 - 2019.05.13 at 20h 32m 51s.xml">
       <configuration name="examTest.경로_확인_테스트" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="BinarySearchTreeTest_트리_print_테스트 - 2019.06.17 at 18h 09m 33s.xml">
+      <configuration name="BinarySearchTreeTest.트리_print_테스트" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BinarySearchTreeTest_트리_print_테스트 - 2019.06.17 at 18h 10m 00s.xml">
+      <configuration name="BinarySearchTreeTest.트리_print_테스트" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BinarySearchTreeTest_트리_print_테스트 - 2019.06.17 at 18h 10m 40s.xml">
+      <configuration name="BinarySearchTreeTest.트리_print_테스트" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BinarySearchTreeTest_트리_print_테스트 - 2019.06.17 at 18h 13m 57s.xml">
+      <configuration name="BinarySearchTreeTest.트리_print_테스트" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="151388000" />
+    <option name="totallyTimeSpent" value="155087000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14295302" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2536913" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -574,7 +556,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3248227" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.14042553" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.1319149" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39454806" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -582,7 +564,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" weight="0.33428982" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.33333334" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="12" weight="0.30780143" />
       <window_info anchor="bottom" id="Duplicate detector" order="13" weight="0.32624114" />
@@ -736,34 +718,6 @@
     </watches-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/week8_queue_v2/meeting/QNode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="15" column="25" selection-start-line="15" selection-start-column="25" selection-end-line="15" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/week8_queue_v2/meeting/MeetingQueue.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="665">
-          <caret line="35" column="51" selection-start-line="35" selection-start-column="51" selection-end-line="35" selection-end-column="51" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/week8_queue_v2/meeting/LinkedQueue.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="142">
-          <caret line="67" column="45" lean-forward="true" selection-start-line="67" selection-start-column="45" selection-end-line="67" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/week8_queue_v2/meeting/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1197">
-          <caret line="63" lean-forward="true" selection-start-line="63" selection-end-line="63" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/circularQueue/CircularQueue.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="171">
@@ -879,19 +833,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/week11_binary_tree/binarySearchTree/BinarySearchTree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1007">
-          <caret line="57" column="5" selection-start-line="57" selection-start-column="5" selection-end-line="57" selection-end-column="5" />
-          <folding>
-            <element signature="e#129#130#0" expanded="true" />
-            <element signature="e#166#167#0" expanded="true" />
-            <element signature="e#200#201#0" expanded="true" />
-            <element signature="e#240#241#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/week11_binary_tree/binarySearchTree/TreeNode.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="38">
@@ -914,17 +855,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/week12_heap/test.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/week11_binary_tree/strudentSearchTree/BinarySearchTree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="15" column="26" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="26" />
-          <folding>
-            <element signature="e#139#140#0" expanded="true" />
-            <element signature="e#166#167#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/week12_heap/student_heap/Stud.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="133">
@@ -967,50 +897,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/week12_heap/adj_matrix/AdjMatrix.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
-          <folding>
-            <element signature="e#145#146#0" expanded="true" />
-            <element signature="e#189#190#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/week12_heap/adj_matrix/AdjList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
-          <folding>
-            <element signature="e#179#180#0" expanded="true" />
-            <element signature="e#242#243#0" expanded="true" />
-            <element signature="e#895#896#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/week12_heap/adj_matrix/AdjExam.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/week13_heap_again/AdjList.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/week13_heap_again/AdjMatrix.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/week14_spanningTree/t.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/week13_heap_again/AdjExam.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="589">
-          <caret line="31" column="32" selection-start-line="31" selection-start-column="32" selection-end-line="31" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/week14_spanningTree/spanning_tree/GraphNode.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="38">
@@ -1054,10 +941,58 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/week15_sorting/Sorting.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1140">
+          <caret line="60" column="17" selection-start-line="60" selection-start-column="17" selection-end-line="60" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/week15_sorting/TestMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/week11_binary_tree/binarySearchTree/BinarySearchTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1007">
+          <caret line="57" column="5" selection-start-line="57" selection-start-column="5" selection-end-line="57" selection-end-column="5" />
+          <folding>
+            <element signature="e#129#130#0" expanded="true" />
+            <element signature="e#166#167#0" expanded="true" />
+            <element signature="e#200#201#0" expanded="true" />
+            <element signature="e#240#241#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/week11_binary_tree/strudentSearchTree/TestMain.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="532">
           <caret line="28" column="9" selection-start-line="28" selection-start-column="9" selection-end-line="28" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/week15_sorting/Stud.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/week14_spanningTree/sorting/QuickSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="17" column="20" selection-start-line="17" selection-start-column="20" selection-end-line="17" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/week14_spanningTree/sorting/InsertSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="24" column="9" selection-start-line="7" selection-start-column="8" selection-end-line="24" selection-end-column="9" />
         </state>
       </provider>
     </entry>
@@ -1078,38 +1013,104 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/week14_spanningTree/sorting/InsertSort.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/week11_binary_tree/strudentSearchTree/BinarySearchTree.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="427">
-          <caret line="24" column="9" selection-start-line="7" selection-start-column="8" selection-end-line="24" selection-end-column="9" />
+        <state relative-caret-position="38">
+          <caret line="15" column="26" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="26" />
+          <folding>
+            <element signature="e#139#140#0" expanded="true" />
+            <element signature="e#166#167#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/week14_spanningTree/sorting/QuickSort.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/binary_search_tree/Node.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-452">
-          <caret line="17" column="20" lean-forward="true" selection-start-line="17" selection-start-column="20" selection-end-line="17" selection-end-column="20" />
+        <state relative-caret-position="76">
+          <caret line="10" column="18" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/week15_sorting/TestMain.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/binary_search_tree/BinarySearchTree.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-57">
-          <caret line="3" column="17" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
+        <state relative-caret-position="95">
+          <caret line="11" column="27" lean-forward="true" selection-start-line="11" selection-start-column="27" selection-end-line="11" selection-end-column="27" />
+          <folding>
+            <element signature="e#615#616#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/week15_sorting/Sorting.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/binary_search_tree/BinarySearchTreeTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1140">
-          <caret line="60" column="17" selection-start-line="60" selection-start-column="17" selection-end-line="60" selection-end-column="17" />
+        <state relative-caret-position="245">
+          <caret line="22" column="26" selection-start-line="22" selection-start-column="26" selection-end-line="22" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#187#188#0" expanded="true" />
+            <element signature="e#225#226#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/week15_sorting/Stud.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/week13_heap_again/AdjExam.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        <state relative-caret-position="166">
+          <caret line="31" column="32" selection-start-line="31" selection-start-column="32" selection-end-line="31" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/week13_heap_again/AdjMatrix.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="11" column="17" lean-forward="true" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
+          <folding>
+            <element signature="e#222#223#0" expanded="true" />
+            <element signature="e#246#247#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/week13_heap_again/AdjList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/week12_heap/adj_matrix/AdjExam.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/week12_heap/adj_matrix/AdjList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-19">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+          <folding>
+            <element signature="e#137#138#0" expanded="true" />
+            <element signature="e#179#180#0" expanded="true" />
+            <element signature="e#218#219#0" expanded="true" />
+            <element signature="e#242#243#0" expanded="true" />
+            <element signature="e#861#862#0" expanded="true" />
+            <element signature="e#895#896#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/week12_heap/adj_matrix/AdjMatrix.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="25" column="39" lean-forward="true" selection-start-line="25" selection-start-column="39" selection-end-line="25" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/sorting/SelectionSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="26" selection-start-line="2" selection-start-column="26" selection-end-line="2" selection-end-column="26" />
         </state>
       </provider>
     </entry>
